@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- I work in a game company as a **SRE** 
+- I work in a game company 
 - 🔭 I’m currently working on `golang`, `k8s`, `prometheus`.
 
 

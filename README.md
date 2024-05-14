@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- I work in a game company 
+- I am working in a game company 
 - 🔭 I’m currently working on `golang`, `k8s`
 
 
